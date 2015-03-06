@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repository is to contain stuf for the Datascience MOOC
+This repository is to contain stuff for the Datascience MOOC
